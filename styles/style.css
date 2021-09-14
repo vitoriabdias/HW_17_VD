@@ -122,6 +122,10 @@ a:hover, .about-me button {
 .pictures .picture-4:hover {
     transform: scale(1.2);
 }
+.responsive {
+    width: 100%;
+    height: auto;
+  }
 /*My Skills*/
 .my-skills {
     margin-top: 200px;
